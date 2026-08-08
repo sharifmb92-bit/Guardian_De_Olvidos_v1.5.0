@@ -1,0 +1,17 @@
+{
+  "name": "Guardián de Olvidos",
+  "short_name": "Guardián",
+  "version": "1.5.0",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1f2937",
+  "theme_color": "#374151",
+  "icons": [
+    {
+      "src": "./icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
